@@ -205,7 +205,6 @@ autoclean = []
 # Images
 
 START_IMG_URL = getenv(
-    "START_IMG_URL",
     "START_IMG_URL", "https://envs.sh/AJT.jpg",  # This is the file id of the photo you can also put the url of photo
 )
 
