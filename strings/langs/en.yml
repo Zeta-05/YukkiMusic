@@ -74,7 +74,7 @@ admin_34 : "❌➻ Failed to seek the current stream."
 # Bot 
 
 # Start
-start_1 : "𝐇ᴇʟʟᴏ υsᴇʀ , Ι ᴀᴍ {0} ⚡*\n\n⎉ ʙᴇsᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴄ ᴍᴜsɪᴄ ʙᴏᴛ ɪɴ ᴛʜᴇ ᴛʜᴇᴍᴇ ᴏғ ɪɴᴠɪɴᴄɪʙʟᴇ sʜᴏʀᴇᴋᴇᴇᴘᴇʀ ᴏғ ᴡᴜᴛʜᴇʀɪɴɢ ᴡᴀᴠᴇs.\n⎉ ᴀʟʟ ᴇssᴇɴᴛɪᴀʟ ʙᴇsᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ғᴇᴀᴛᴜʀᴇs. \n\n⎇ ᴛᴀᴘ ᴏɴ ʜᴇʟᴘ ᴛᴏ sᴇᴇ ᴍʏ ᴀʟʟ ғᴜɴᴄᴛɪᴏɴs. ."
+start_1 : "⏤‌‌‌‌★ ʜᴇʏ {1}, Ι ᴀᴍ {0}\n\n⎉ ʙᴇsᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴄ ᴍᴜsɪᴄ ʙᴏᴛ ɪɴ ᴛʜᴇ ᴛʜᴇᴍᴇ ᴏғ ɪɴᴠɪɴᴄɪʙʟᴇ sʜᴏʀᴇᴋᴇᴇᴘᴇʀ ᴏғ ᴡᴜᴛʜᴇʀɪɴɢ ᴡᴀᴠᴇs.\n⎉ ᴀʟʟ ᴇssᴇɴᴛɪᴀʟ ʙᴇsᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ғᴇᴀᴛᴜʀᴇs. \n\n⎇ ᴛᴀᴘ ᴏɴ ʜᴇʟᴘ ᴛᴏ sᴇᴇ ᴍʏ ᴀʟʟ ғᴜɴᴄᴛɪᴏɴs. ."
 start_2 : "Hey,\n this is {0}\n\nA fast and powerful music player bot with some awesome features.\n\nAssistant username: @{1}\nAssistant ID: {2}"
 start_3 : "The owner of {0}, {1} just joined your chat."
 start_4 : "The sudo user of {0}, {1} just joined your chat."
